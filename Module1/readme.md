@@ -14,4 +14,4 @@ To solve the problem, I decided to use this data from the dataset: listings.csv,
 
 ## Dashboard
 Link todashboard stored on Tableau Public: [Airbnb London listings](https://public.tableau.com/app/profile/denis5082/viz/AirbnbLondonlistings/Listingoverview?publish=yes)
-![](file:///C:/Users/aboneev.ia/Downloads/airbnb%20London%20listings.png)
+![]([file:///C:/Users/aboneev.ia/Downloads/airbnb%20London%20listings.png](https://github.com/IlyaAboneev/BI/blob/main/Module1/airbnb%20London%20listings%20(1).png)
